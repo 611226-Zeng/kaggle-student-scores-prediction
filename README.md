@@ -104,6 +104,12 @@ Tuned parameters included:
 ### Best CV Result
 - **Mean RMSE: 8.773542**
 
+## Feature Importance
+
+Top 20 feature importances from the final LightGBM model:
+
+![Top 20 Feature Importances](feature_importance.png)
+
 ---
 
 ## Reproducibility
